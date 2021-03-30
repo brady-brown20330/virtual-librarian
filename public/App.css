@@ -1,0 +1,14 @@
+.app {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  font-size: large;
+}
+
+.link-container {
+	margin: 0 auto;
+}
+
+.name-link {
+  list-style-type: none;
+}
